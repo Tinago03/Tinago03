@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tinago03 [Tinavo Chihota]
+- 👋 Hi, I’m @Tinago03
 - 👀 I’m interested in Programming | Hacking | Pentesting | Graphics Designing 
 - 🌱 I’m currently majouring in Computer Science
 - 💞️ I’m looking to collaborate on Programming | Hacking | Pentesting | Graphics Designing
